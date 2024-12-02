@@ -13,7 +13,7 @@
    }
 }
 ```
-
+<a align="center"><img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"></a>
 <hr>
 
 <h3 align="left">Connect with me:</h3>
@@ -62,11 +62,10 @@
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhattan2k7&repo=Huongdanchaybot&theme=tokyonight" alt="nhattan2k7" />
 <a href="https://github.com/nhattan2k7/Mirai-V2">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=nhattan2k7&repo=Mirai-V2&theme=tokyonight" alt="nhattan2k7" /></p>
-	
 </a>
-
+<hr>
 <p align='center'>
-<img src="https://github.com/nhattan2k7/Snake/blob/main/github-contribution-grid-snake.svg">
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif">
 </p>
 
 <hr>
