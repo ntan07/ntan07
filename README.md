@@ -8,8 +8,8 @@
      Gender = "Male";
      Address = "Ninh Hòa, Khánh Hòa, Việt Nam";
      School = "THPT Nguyễn Trãi";
-     Skills = "C++, Python, JavaScript";
-     FamousQuotes = "Chỉ có thành công mới định nghĩa được mày là ai!";
+     Skills = "C++, Python, JavaScript, HTML, CSS";
+     FamousQuotes = "Kỷ luật sẽ đưa bạn đến nơi mà động lực không thể làm được!";
    }
 }
 ```
@@ -19,17 +19,19 @@
 <h3 align="left">Connect with me:</h3>
 <div align="left">
         
-[![image](https://user-images.githubusercontent.com/100332598/161370700-9f9cd221-d63d-4487-a92c-43106b1ded9a.png)](https://github.com/nhattan2k7)
-[![image](https://user-images.githubusercontent.com/100332598/161090489-114fa978-c4bc-4f8d-a135-064c7a6ba681.png)](https://www.instagram.com/hnhattan3011)
-[![image](https://user-images.githubusercontent.com/100332598/161090027-e6536842-8221-43e4-9bfd-d7cd860c3b93.png)](mailto:nhattan.301107@gmail.com)
+[![image](https://user-images.githubusercontent.com/100332598/161370700-9f9cd221-d63d-4487-a92c-43106b1ded9a.png)](https://github.com/ntan07)
+[![image](https://user-images.githubusercontent.com/100332598/161090489-114fa978-c4bc-4f8d-a135-064c7a6ba681.png)](https://www.instagram.com/hntan07)
+[![image](https://user-images.githubusercontent.com/100332598/161090027-e6536842-8221-43e4-9bfd-d7cd860c3b93.png)](mailto:nhattannn.07@gmail.com)
 [![image](https://user-images.githubusercontent.com/100332598/161089652-1af8a6b0-dba5-4270-8962-2b178527d6bc.png)](https://www.facebook.com/profile.php?id=100077529039506)
 
 <div>
 <h4>Programming Languages</h4>
 <p>
-  <img src="https://img.shields.io/badge/C++-33CCFF?style=for-the-badge&logo=C&logoColor=black">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/python-42f5d4?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-6295cb?style=for-the-badge&logo=C&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-f6d322?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/python-3276ae?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-e96228?style=for-the-badge&logo=html5&logoColor=black">
+  <img src="https://img.shields.io/badge/CSS-0196dc?style=for-the-badge&logo=css3&logoColor=black">
 </p>
 <hr>
 
