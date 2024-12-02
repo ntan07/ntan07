@@ -27,7 +27,7 @@
 
 </div>
 	
-<h4>Programming Languages</h4>
+<h4><b>Programming Languages</b></h4>
 <p>
   <img src="https://img.shields.io/badge/C++-6295cb?style=for-the-badge&logo=C&logoColor=black">
   <img src="https://img.shields.io/badge/JavaScript-f6d322?style=for-the-badge&logo=javascript&logoColor=black">
@@ -36,15 +36,11 @@
   <img src="https://img.shields.io/badge/CSS-0196dc?style=for-the-badge&logo=css3&logoColor=black">
 </p>
 <hr>
-<p align='center'>
-🏆 GitHub Profile Trophy 
-	</p>
+<p align='center'><b>🏆 GitHub Profile Trophy </b></p>
 <p align='center'>
 <img src="https://github-profile-trophy.vercel.app/?username=nhattan2k7&theme=tokyonight"></p>
 	
-<p align='center'>
-📝 Github Stats
-	</p>
+<p align='center'><b>📝 Github Stats</b></p>
 	
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=nhattan2k7&include_all_commits=true&count_private=true&show_icons=true&custom_title=nhattan2k7&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt = "Github Stats" >
@@ -52,9 +48,7 @@
 	<p align='center'>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=nhattan2k7&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt = "Github Streak" ></p>
 
-<p align='center'>	
-📌 Repository pin
-	</p>
+<p align='center'><b>📌 Repository Pin</b></p>
 	
 <p align='center'>
 <a href="https://github.com/nhattan2k7/Huongdanchaybot">
